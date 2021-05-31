@@ -1,0 +1,7 @@
+is_board_full  可以設置一個變數 0 到 9 一職++上去
+ 9就break
+def check_win for  two line situation 
+
+1.平手
+2.配色
+3.演算法考慮
